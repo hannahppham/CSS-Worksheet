@@ -1,0 +1,19 @@
+h1, h2 {
+	font-family: "Helvetica";
+}
+
+body {
+	font-family: "Georgia";
+	width: 500px;
+}
+
+#mandatory {
+	background-color: rgb(197, 248, 255);
+	padding: 30px;
+	border: 30px dotted rgb(242, 138, 34);
+}
+	
+a:hover {
+	color: purple;
+	text-decoration: none;
+}
